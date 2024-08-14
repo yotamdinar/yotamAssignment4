@@ -9,6 +9,9 @@ $$*TODO* Add some general description about the software$$
 ## Installation
 $$*TODO* Write instructions on how to install the software and prepare the testing environment$$
 
+![image](https://github.com/user-attachments/assets/e9b64ff2-780c-4d8d-9912-66fb08172b94)
+
+
 ## What we tested
 $$*TODO* Add a description of the module and the user stories that you chose to test.
 For example, in the case of the Moodle example, you can write something like this:
